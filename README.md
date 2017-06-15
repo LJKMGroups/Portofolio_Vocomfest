@@ -1,4 +1,4 @@
-# Portofolio_Vocomfest
-Portofolio ketiga, untuk perlombaan vocomfest web design 2017 di UGM. HTML 5, CSS 3, dan sedikit JS "Responsive"
+#Portfolio_Vocomfest
+The third portfolio, for the 2017 vocomfest web design competition at UGM. HTML 5, CSS 3, and a bit of JS "Responsive"
 
-#MURID_LAB_AKSELERASI
+#Lab_Akselerasi
